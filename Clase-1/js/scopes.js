@@ -16,7 +16,7 @@
 function ejemploScopeConst (){
     const variableConstante = "Soy constante";
     console.log(variableConstante);
-//    const variableConstante = "Soy otra";
+//    const variableConstante = "Soy otra"; 5.818.999
 
 
     if(true){
